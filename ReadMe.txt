@@ -1,0 +1,5 @@
+MANNA is an open-source program designed to assist healthcare providers and others correlate diverse data points - such as vitamins, minerals, diseases, toxins, genetics, and more - in order to help better identify the interactions these elements have with one another, and the resulting effects on human health.
+
+In order cut through myths and avoid agendas and bias, the MANNA project is supported solely by the kind donations of numerous individuals. It is the official position of the MANNA project to not endorse any specific business or organization, nor to endorse any position or conclusion regarding nutrition without solid data supporting it - and only after peer review of the data.
+
+All MANNA data is collected in anonymous form, especially patient data, for the sole purpose of helping determine cause/effect correlations. 
